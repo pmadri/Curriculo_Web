@@ -1,1 +1,2 @@
-# Curriculo_Web
+# Projeto - Cúrriculo Web
+Pedroca, nariz de pipoca
