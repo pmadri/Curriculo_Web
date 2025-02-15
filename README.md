@@ -1,2 +1,2 @@
 # Projeto - Cúrriculo Web
-Pedroca, nariz de pipoca, pedro pedra
+Pedroca, nariz de pipoca, pedro pedra log
